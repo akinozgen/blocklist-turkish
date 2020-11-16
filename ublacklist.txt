@@ -62,3 +62,5 @@
 *://www.marasbugun.com.tr/*
 *://www.ortadoguhaber.com/*
 *://www.dunyabulteni.net/*
+*://bigpara.hurriyet.com.tr/*
+*://uzmanpara.milliyet.com.tr/*
